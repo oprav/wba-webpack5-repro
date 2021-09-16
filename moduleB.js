@@ -1,0 +1,7 @@
+class B {
+
+}
+
+export {
+  B
+}
